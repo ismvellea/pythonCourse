@@ -1,2 +1,2 @@
-@py c:\git\Udemy\python course %*
+@py c:\git\Udemy\pythonCourse\hello.py %*
 @pause
