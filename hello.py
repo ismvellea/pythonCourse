@@ -1,4 +1,5 @@
 #! python3
+import sys 
 
 # This program says hello and asks for my name 
 
@@ -11,3 +12,4 @@ print(len(myName))
 print('What is your age?') # ask for their age
 myAge = input()
 print('You will be ' + str(int(myAge) + 1) + ' in a year.')    
+print(sys.argv)
